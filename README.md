@@ -1,3 +1,3 @@
 # web-boilerplate
 
-# test
+A boilerplate for web apps with Django, React, ...
